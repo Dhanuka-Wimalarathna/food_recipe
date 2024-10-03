@@ -1,0 +1,13 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Define the border color and width -->
+    <!--    <stroke-->
+    <!--        android:width="2dp"-->
+    <!--        android:color="#129575" /> &lt;!&ndash; Red border &ndash;&gt;-->
+
+    <!-- Define the background color if needed -->
+    <solid android:color="#ffffff" /> <!-- White background -->
+    <stroke android:width="5dp" android:color="#129575"/>
+
+    <!-- Optional: Define the corner radius if you want rounded corners -->
+    <corners android:radius="20dp" />
+</shape>
